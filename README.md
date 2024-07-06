@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Catalin<br>
-Backend developer* <br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Catalin
+<h3>Backend developer </h3>
 🌍  I'm based in Romania <br>
 ✉️  You can contact me at [msibisancatalin44@gmail.com](mailto:msibisancatalin44@gmail.com) <br>
-🧠  I'm learning a new framework (Django)<br>
+🧠  I'm learning a new framework (Django) <br>
 
 • Skills
 
